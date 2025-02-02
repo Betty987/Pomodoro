@@ -1,6 +1,6 @@
 # ⏳ Pomodoro Timer App  
 
-A **simple and customizable Pomodoro Timer** built with **React, TypeScript, and Tailwind CSS** built to keep me focused while I am working. This app helps you stay productive by following the **Pomodoro Technique**, which consists of **focused work sessions** followed by **short breaks**.  
+A **simple and customizable Pomodoro Timer** built with **React, TypeScript, and Tailwind CSS** to keep me focused while I am working. This app helps you stay productive by following the **Pomodoro Technique**, which consists of **focused work sessions** followed by **short breaks**.  
 
 ## 🚀 Features  
 
