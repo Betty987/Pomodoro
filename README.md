@@ -12,7 +12,7 @@ A **simple and customizable Pomodoro Timer** built with **React, TypeScript, and
 
 ## 🖼️ Screenshot  
 
-![Pomodoro Timer Preview](./src/assets/pomodoro.png.png)  
+![Pomodoro Timer Preview](./src/assets/pomodoro.png)  
 
 ## 🛠️ Tech Stack  
 
